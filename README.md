@@ -32,7 +32,7 @@ onto 2 or more different industries.
 ### Word Embeddings: Word Vectorization technique
 
 As for the Word Embeddings technique, not only does it take into account the relevance of the words in terms of statistics, 
-it also takes into account the meaning of the words. This gives it a huge advantage compares to LDA because now, not only does it
+it also takes into account the meaning of the words. This gives it a huge advantage compared to LDA because now, not only does it
 compute the probability of a word being relavent relative to the document, but it takes into account meanings of words and allows 
 words that have the same meaning to be represented in similar ways.
 
