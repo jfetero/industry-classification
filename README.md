@@ -37,7 +37,7 @@ compute the probability of a word being relavent relative to the document, but i
 words that have the same meaning to be represented in similar ways.
 
 For our case we applied the Word Embeddings technique to both the industry data and the companies data. Once we get the vectorized scores of each,
-we compared each of the industry vectors to each industry vector to see which industry the company is most similar to,
+we compared each of the industry vectors to each industry vector to see which industry the company is most similar to.
 
 Similar to the LDA model, the results using the Word Embeddings technique was very promising. It gave us pretty accurate results with only some companies
 being classified to an industry that was complete off, i.e a sushi restaurant being classified as education.
